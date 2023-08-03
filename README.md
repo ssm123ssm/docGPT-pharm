@@ -1,6 +1,6 @@
 # docGPT - Document Intelligence 
 
-Welcome to **docGPT**, an easily implemented document intelligence program written as an abstraction over langchain. Simply put all the unstructured data (eg PDF files) in the `data` folder and start aks questions about them!
+Welcome to **docGPT**, an easily implemented document intelligence program written as an abstraction over langchain. Simply put all the unstructured data (eg PDF files) in the `data` folder and start asking questions about them!
 
 Useful for Retrieval and Summarization tasks.
 
