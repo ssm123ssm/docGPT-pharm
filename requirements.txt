@@ -1,0 +1,4 @@
+langchain
+gradio
+numpy
+sklearn

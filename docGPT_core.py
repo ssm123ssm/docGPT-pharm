@@ -1,6 +1,4 @@
 # Imports
-import time
-import openai
 from langchain.chains import RetrievalQA, ConversationalRetrievalChain
 from langchain.document_loaders import DirectoryLoader, UnstructuredFileLoader
 from langchain.memory import ConversationBufferMemory
@@ -163,4 +161,4 @@ class Chain:
                                                   chain_type_kwargs=persona.persona, verbose=True,
                                                   memory=ConversationBufferMemory(), )
 
-# %%
+
